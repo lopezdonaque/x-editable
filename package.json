@@ -1,5 +1,5 @@
 {
-  "name": "X-editable",
+  "name": "@housfy/x-editable",
   "title": "X-editable",
   "description": "In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery",
   "version": "1.5.1",

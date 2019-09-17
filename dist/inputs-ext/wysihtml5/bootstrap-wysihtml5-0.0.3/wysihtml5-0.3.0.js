@@ -9519,3 +9519,5 @@ wysihtml5.views.Textarea = wysihtml5.views.View.extend(
             }
         });
 })(wysihtml5);
+
+window.wysihtml5 = wysihtml5;
